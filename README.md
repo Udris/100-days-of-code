@@ -5,3 +5,5 @@
 5th-day - more codeacademy and Python basics, booleans if, ifelse etc
 6th-day - codeacademy functions
 7th-day - a bit of codeacademy - had no time.
+8th-day - skipped this day.
+9th-day - 
